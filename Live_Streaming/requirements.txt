@@ -7,3 +7,11 @@ openai==1.12.0
 jiter==0.9.0
 protobuf==4.25.1
 py-mini-racer==0.6.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24.0
+gradio>=4.19.2
+uvicorn>=0.27.1
+httpx>=0.26.0
+websockets>=12.0
+asyncio>=3.4.3
